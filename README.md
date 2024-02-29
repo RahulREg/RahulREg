@@ -1,8 +1,8 @@
 ### Hi, my name is Rahul Ram. Welcome to my profile.👋
-###### An undergraduate student and aspiring Software developer interested in Full-Stack Development and Competitive programming.
+###### A postgraduate student and aspiring ML developer interested in Deep Learning and CV related projects.
 
-- 🌱 I’m currently learning Web Development and various Data Structures and Algorithms.
-- 👯 I’m looking to collaborate on projects involving Full-Stack Web Development.
+- 🌱 I’m currently studying at IIT Kharagpur.
+- 👯 I’m looking to collaborate on projects involving Deep Learning and Computer Vision.
 
 - 📫 How to reach me:
 
